@@ -2,7 +2,7 @@ const axios = require("axios");
 const simsim = "https://simsimi.cyberbot.top";
 
 module.exports.config = {
- name: "baby",
+ name: "sakibbbbai",
  version: "1.0.3",
  hasPermssion: 0,
  credits: "ULLASH",
@@ -161,8 +161,8 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
  const senderID = event.senderID;
 
  if (
- raw === "baby" || raw === "bot" || raw === "bby" ||
- raw === "jan" || raw === "xan" || raw === "জান" || raw === "বট" || raw === "বেবি" 
+ raw === "sakibbbai" || raw === "sakibbbai" || raw === "sakibbbai" ||
+ raw === "sakibbbai" || raw === "sakibbbai" || raw === "sakibbbai" || raw === "sakibbbai" || raw === "sakibbbai" 
  ) {
  const greetings = [
         "বেশি bot Bot করলে leave নিবো কিন্তু😒😒",
